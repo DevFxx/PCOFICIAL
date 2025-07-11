@@ -24,7 +24,7 @@ import '../../global.css'
     },
     {
       posicao: 2,
-      nome: "Soldados.Son",
+      nome: "Soldados Sombrios",
       img: "https://i.imgur.com/B9DLwTO.jpeg",
       alt: "Soldados.Son",
       p: 0,
