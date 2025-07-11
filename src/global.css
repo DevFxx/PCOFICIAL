@@ -18,3 +18,27 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
 }
+/* Para navegadores baseados em WebKit (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 6px;      /* Largura vertical */
+  height: 6px;     /* Altura horizontal */
+}
+
+::-webkit-scrollbar-track {
+  background: #111;   /* Cor de fundo da barra (track) — dark */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0f0;  /* Verde claro: #0f0 é um verde neon básico */
+  border-radius: 3px; /* Cantos arredondados */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2f2;  /* Verde mais forte quando passa o mouse */
+}
+
+/* Firefox — usa pseudo-elemento especial */
+* {
+  scrollbar-width: thin;               /* Scrollbar fina */
+  scrollbar-color: #0f0 #111; /* thumb track */
+}
