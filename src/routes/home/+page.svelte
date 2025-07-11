@@ -16,7 +16,7 @@ import '../../global.css'
       ],
     },
     {
-      nome: "Soldados.Son",
+      nome: "Soldados Sombrios",
       treinador: "Alex",
       img: "https://i.imgur.com/B9DLwTO.jpeg",
       alt: "Time ss",
