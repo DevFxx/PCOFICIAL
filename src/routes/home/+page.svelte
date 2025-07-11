@@ -49,6 +49,7 @@ import '../../global.css'
       alt: "Time TeamAim",
       jogadores: [
         { nome: "Luiz Miguel", foto: "https://i.imgur.com/fzH8cLY.jpeg", lider: true },
+        { nome: "Rodrigo da Costa", foto: "https://s3.amazonaws.com/blog.dentrodahistoria.com.br/wp-content/uploads/2022/09/14102229/relampago-mcqueen.png", lider: false },
       ],
     },
   ];
