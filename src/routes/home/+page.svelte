@@ -11,6 +11,7 @@
       alt: "Time fxx",
       jogadores: [
         { nome: "Samuel Lucas", foto: "https://i.imgur.com/lUJnsEa.jpeg ", lider: true },
+        { nome: "Anthony", foto: "https://i.imgur.com/lUJnsEa.jpeg ", lider: false },
       ],
     },
     {
