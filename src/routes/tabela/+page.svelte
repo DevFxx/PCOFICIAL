@@ -1,4 +1,5 @@
 <script>
+import '../../global.css'
   // Funções para navegação
   function tabela() {
     window.location.href = "../tabela";
