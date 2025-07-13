@@ -13,24 +13,9 @@ import '../../global.css'
       jogadores: [
         { nome: "Samuel Lucas", foto: "https://i.imgur.com/lUJnsEa.jpeg ", lider: true },
         { nome: "Anthony Fernandes", foto: "https://i.imgur.com/unvBGmR.jpeg", lider: false },
-      ],
-    },
-    {
-      nome: "Soldados Sombrios",
-      treinador: "Alex",
-      img: "https://i.imgur.com/B9DLwTO.jpeg",
-      alt: "Time ss",
-      jogadores: [
-        { nome: "Alex", foto: "https://i.imgur.com/B9DLwTO.jpeg", lider: true },
-      ],
-    },
-    {
-      nome: "Night Fury",
-      treinador: "Maxwell",
-      img: "https://i.imgur.com/nIwEWER.jpeg",
-      alt: "Time night",
-      jogadores: [
-        { nome: "Maxwell", foto: "https://i.imgur.com/nIwEWER.jpeg", lider: true },
+        { nome: "Alex Silva", foto: "https://i.imgur.com/tlsYBoP.jpeg", lider: false },
+        { nome: "Rodrigo Costa", foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NTqz-Qgbn2W5A_hQuoGKEb1EgTirlaXFmg&s", lider: false },
+        { nome: "Miguel Miranda", foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylz0pyzko6IZtwmD8x2sg3QvFyHNaK3diNg&s", lider: false },
       ],
     },
     {
@@ -39,17 +24,9 @@ import '../../global.css'
       img: "https://i.imgur.com/4vt3uvX.jpeg",
       alt: "Time spacex",
       jogadores: [
-        { nome: "Danilo", foto: "https://i.imgur.com/4vt3uvX.jpeg", lider: true },
-      ],
-    },
-    {
-      nome: "Team Aim",
-      treinador: "Luiz Miguel",
-      img: "https://i.imgur.com/fzH8cLY.jpeg",
-      alt: "Time TeamAim",
-      jogadores: [
-        { nome: "Luiz Miguel", foto: "https://i.imgur.com/fzH8cLY.jpeg", lider: true },
-        { nome: "Rodrigo da Costa", foto: "https://s3.amazonaws.com/blog.dentrodahistoria.com.br/wp-content/uploads/2022/09/14102229/relampago-mcqueen.png", lider: false },
+        { nome: "Danilo José", foto: "https://i.imgur.com/4vt3uvX.jpeg", lider: true },
+        { nome: "Jota Magalhões", foto: "https://i.imgur.com/lLB6kNv.jpeg", lider: false },
+        { nome: "Cosmo K1", foto: "https://i.imgur.com/SwMyFvS.jpeg", lider: false },
       ],
     },
   ];
